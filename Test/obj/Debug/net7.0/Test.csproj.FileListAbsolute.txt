@@ -96,3 +96,6 @@
 /workspaces/ShoppingCart/Test/obj/Debug/net7.0/Test.pdb
 /workspaces/ShoppingCart/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
 /workspaces/ShoppingCart/Test/obj/Debug/net7.0/ref/Test.dll
+/workspaces/ShoppingCart/Test/bin/Debug/net7.0/CoverletSourceRootsMapping
+/workspaces/ShoppingCart/Test/bin/Debug/net7.0/Logic.dll
+/workspaces/ShoppingCart/Test/bin/Debug/net7.0/Logic.pdb

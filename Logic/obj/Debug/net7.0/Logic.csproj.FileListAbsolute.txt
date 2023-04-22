@@ -3,3 +3,10 @@
 /workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.AssemblyInfoInputs.cache
 /workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.AssemblyInfo.cs
 /workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.csproj.CoreCompileInputs.cache
+/workspaces/ShoppingCart/Logic/bin/Debug/net7.0/Logic.deps.json
+/workspaces/ShoppingCart/Logic/bin/Debug/net7.0/Logic.dll
+/workspaces/ShoppingCart/Logic/bin/Debug/net7.0/Logic.pdb
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.dll
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/refint/Logic.dll
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.pdb
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/ref/Logic.dll

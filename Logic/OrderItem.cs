@@ -1,4 +1,5 @@
-using ShoppingCart.Logic.Product;
+using System;
+
 namespace Logic
 {
   public class OrderItem {
