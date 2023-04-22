@@ -1,3 +1,4 @@
+using ShoppingCart.Logic.Product;
 namespace Logic
 {
   public class OrderItem {

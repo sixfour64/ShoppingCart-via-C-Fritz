@@ -1,0 +1,5 @@
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.csproj.AssemblyReference.cache
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.AssemblyInfoInputs.cache
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.AssemblyInfo.cs
+/workspaces/ShoppingCart/Logic/obj/Debug/net7.0/Logic.csproj.CoreCompileInputs.cache
